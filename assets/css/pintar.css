@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: rgb(0, 0, 0);
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+    font-family: Arial, sans-serif;
+    gap: 5px;
+    justify-content: center;
+    align-content: center;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: bold;
+    border: 3px solid rgb(60, 137, 185);
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    gap: 5rem;
+}
